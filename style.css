@@ -1,3 +1,19 @@
-body{color: white;
-background-color:black;}
-a{color:green;}
+body{font-size: 1em
+    ;
+font-family: sans-serif;}
+
+p{font-size: 1em
+    ;}
+    h1{font: size 1.8em; 
+        text-align: center;
+       }
+        h2{font: size 1.2em; 
+            text-align: center;
+            }
+        h3{font: size 1.4em; 
+                text-align: center;
+                }
+                .main{}
+.summary{ text-align: center;}
+.main p{line-height: 1.5;}
+abbr{font-variant: small-caps;}
